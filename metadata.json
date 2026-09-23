@@ -1,0 +1,6 @@
+{
+  "name": "Uyir Thuli Koodaram",
+  "description": "Real-time Coimbatore blood bank matrix, emergency reserve dispatch, green corridor live transit tracker, and volunteer donor hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
